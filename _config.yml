@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Lorenzo Graziano"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Data Engineer and an Artificial Intelligence Student"
-  location         : "Como"
+  bio              : "Data Engineer & Artificial Intelligence Student"
+  location         : "Como (IT)"
   email            : "lorenzograziano90@gmail.com"
   links:
     - label: "Email"
@@ -127,6 +127,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+header:
+  image: "/assets/images/pattern.jpg"
 
 # Site Footer
 footer:
